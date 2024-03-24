@@ -1,1 +1,1 @@
-Hello, Hexlet!
+['TAYLOR', 'ABIGAIL', '']
